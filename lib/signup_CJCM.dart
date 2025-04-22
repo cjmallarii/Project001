@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'homepage_RDMD.dart'; // Navigate to homepage after signup
-import 'signup_RDMD.dart'; // Navigate back to login page
+import 'homepage_CJCM.dart'; // Navigate to homepage after signup
+import 'signup_CJCM.dart'; // Navigate back to login page
 
 class SignUpPage extends StatefulWidget {
   @override
