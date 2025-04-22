@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'page1_RDMD.dart';
 import 'page2_RDMD.dart';
 
-class Homepage_RDMD extends StatelessWidget {
-  const Homepage_RDMD({super.key});
+class Homepage_CJCM extends StatelessWidget {
+  const Homepage_CJCM({super.key});
 
   @override
   Widget build(BuildContext context) {
