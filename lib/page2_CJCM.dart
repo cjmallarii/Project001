@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 
-class page2_RDMD extends StatelessWidget {
-  const page2_RDMD({super.key});
+class page2_CJCM extends StatelessWidget {
+  const page2_CJCM({super.key});
 
   @override 
   Widget build(BuildContext context) {
