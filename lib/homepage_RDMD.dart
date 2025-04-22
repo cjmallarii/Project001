@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'page1_RDMD.dart';
-import 'page2_RDMD.dart';
+import 'page1_CJCM.dart';
+import 'page2_CJCM.dart';
 
 class Homepage_CJCM extends StatelessWidget {
   const Homepage_CJCM({super.key});
